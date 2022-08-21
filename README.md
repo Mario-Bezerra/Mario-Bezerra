@@ -2,7 +2,7 @@
 Hi, I’m @Mario-Bezerra
 </h2>
 <h2 align="center">
-🌱 I’m currently learning Java, Spring Framework, Javascript and React
+🌱 I’m currently learning Java, Spring Framework, Javascript and Angular
 </h2>
  </br>
  <h3 align="center">
