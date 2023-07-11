@@ -2,7 +2,7 @@
 Hi, I’m @Mario-Bezerra
 </h2>
 <h2 align="center">
-🌱 I’m currently learning Java, Spring Framework, Javascript and Angular
+🌱 I’m a Software Developer. Currently working for T-Systems Br as a Full-Stack Developer, focused in Java applications. 
 </h2>
  </br>
  <h3 align="center">
