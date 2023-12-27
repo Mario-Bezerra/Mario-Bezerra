@@ -47,40 +47,4 @@ IDEs :
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 </br>
 
-<h2 align="center"> 
-💻 Some projects :
- </h2>
-</br>
-<h3>
-Spring Boot + React : </br>
--<a href="https://github.com/Mario-Bezerra/DS_MetaProject"> DSmeta (App for visualization of sales) </a> </br>
-</h3>
-
-<h3>
-Spring Boot : </br> -<a href="https://github.com/Mario-Bezerra/MyProjectsApp"> MyProjectsApp Back-End ( In progress )</a> </br>
--<a href="https://github.com/Mario-Bezerra/FindCep"> Find cep with Api integration</a> </br>
--<a href="https://github.com/Mario-Bezerra/Java-Spring-Boot"> Api to create a forum educational</a> </br>
-</h3>
-
-<h3>
-React : </br> 
--<a href="https://github.com/Mario-Bezerra/MyProjectsAppFront-End"> MyProjectsApp Front-End ( In progress ) </a> </br>
-</h3>
-
-<h3>
-HTML , CSS, JAVASCRIPT : </br>
--<a href="https://github.com/Mario-Bezerra/MemoryGameJS"> MemoryGameJS </a> </br>
--<a href="https://github.com/Mario-Bezerra/CssAnimations"> CSSAnimations </a> </br>
--<a href="https://github.com/Mario-Bezerra/day_58_Python_BootCamp"> Tindog Landing page </a> </br>
--<a href="https://github.com/Mario-Bezerra/day_42_Python_BootCamp"> My profile page </a> </br>
-</h3>
-
-<h3>
-Python : </br>
--<a href="https://github.com/Mario-Bezerra/day_20_Python_BootCamp"> Snake game in python </a> </br>
--<a href="https://github.com/Mario-Bezerra/day_53_Python_BootCamp-CAPSTONE"> Selenium Web-Driver </a> </br>
--<a href="https://github.com/Mario-Bezerra/day_33_Python_BootCamp"> Request API from ISS spacial station</a> </br>
-</h3>
-</br>
-
 ![Mario's github stats](https://github-readme-stats.vercel.app/api?username=Mario-Bezerra)
