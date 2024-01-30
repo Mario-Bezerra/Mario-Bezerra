@@ -2,7 +2,7 @@
 Hi, I’m @Mario-Bezerra
 </h2>
 <h2 align="center">
-🌱 I’m a Software Developer. Currently working for T-Systems as a Full-Stack Developer, focused in Java applications. 
+🌱 I’m a Software Developer. Currently working for T-Systems, focused in Java applications. 
 </h2>
  </br>
  <h3 align="center">
