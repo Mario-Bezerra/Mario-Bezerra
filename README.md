@@ -166,11 +166,6 @@ A backend application for food-ordering services focused on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mario-Bezerra&show_icons=true&theme=github_dark&hide_border=true" alt="Mario's GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Bezerra&layout=compact&theme=github_dark&hide_border=true" alt="Mario's most used languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mario-Bezerra&theme=github-dark-blue&hide_border=true" alt="Mario's GitHub streak"/>
 </p>
 
